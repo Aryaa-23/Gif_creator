@@ -38,6 +38,7 @@ python Gif_creator.py
 
 ### 5. View Output
 
-## 📷 Sample Output
+## 📜 License
 
-![Sample GIF](output_gif/my_gif.gif)
+This project is licensed under the [MIT License](LICENSE).
+
